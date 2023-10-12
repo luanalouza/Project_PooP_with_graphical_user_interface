@@ -6,9 +6,9 @@ I could practice some abilities  as encapsulation, abstraction, inheritance, cla
 
 How Start program:
 
-1-open the project folder in your prefer python IDE 
+1- Open the project folder in you prefer python IDE 
 
-2-initiate virtual enviroment :
+2- Initiate virtual enviroment :
 venv\scripts\activate
 
-3-execute main.py
+3- Execute main.py
