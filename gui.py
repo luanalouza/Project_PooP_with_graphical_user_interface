@@ -7,7 +7,7 @@ class CarInputForm:
     def __init__(self, root, car_manager):
         self.root = root
         self.root.title("Car Counter")
-        self.root.eval("tk :: PLaceWindow . center")
+        self.root.eval("tk::PlaceWindow . center")
         self.car_manager = car_manager
 
         # Lists for brand and color options.
