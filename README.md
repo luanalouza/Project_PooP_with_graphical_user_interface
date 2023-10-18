@@ -12,3 +12,9 @@ How Start program:
 venv\scripts\activate
 
 3- Execute main.py
+
+
+
+![Captura de tela 2023-10-18 150548](https://github.com/luanalouza/Project_PooP_with_graphical_user_interface/assets/95712511/eb706a2d-eb06-4b68-bc49-fdb62cdcbad9)
+
+![Captura de tela 2023-10-18 150904](https://github.com/luanalouza/Project_PooP_with_graphical_user_interface/assets/95712511/822de2b7-db96-4308-b91a-a36a33cb4edc)
