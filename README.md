@@ -1,17 +1,49 @@
-Small program with graphical user interface can allow the user to store car data and save it automatically in a Excel file, During this process,
-I could practice some abilities as encapsulation, abstraction, inheritance, functional programming and how to store objects in a list in Python
+# Getting Started
+
+Run the Application.exe to start the program.
+
+Note: If you encounter any issues, ensure that you have the necessary permissions to run the executable.
+
+# Features
+Add Car Data: Enter car make, model, and year using the provided entry fields and click the "Add Car" button.
+
+Save to Excel: Save the entered car data to an Excel file by clicking the "Save to Excel" button. The data will be saved with a timestamp in the filename.
+
+Dependencies
+None (for the executable)
+Python 3.x (for development)
+Notes
+The saved Excel file will be named as cars.xlsx.
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+# For development:
 
-How Start program:
+ Create and Activate the environment:
 
-1- Open the project folder in you prefer python IDE as administrator.
 
-2- Initiate virtual enviroment :
-venv\scripts\activate
+python -m venv venv   
 
-3- Execute main.py
+
+ Activate on Linux/Mac
+
+
+source venv/bin/activate 
+
+
+  Activate on Windows
+
+
+venv\Scripts\activate      
+
+
+
+ Install Dependencies
+
+pip install -r requirements.txt
+
+
+
+
 
 
 
