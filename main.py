@@ -3,7 +3,7 @@ from gui import CarInputForm
 from object_car import car
 import pandas as pd
 from pandas import *
-
+import openpyxl
 # Create a class to manage car data.
 class CarManager:
     def __init__(self):
@@ -52,7 +52,7 @@ class CarManager:
             updated_data.to_excel('cars.xlsx', index=False)
         except FileNotFoundError:
             # If the file doesn't exist, create a new one.
-            df.to_excel('cars.xlsx', index=False)
+            df.to_excel('./output_files/cars.xlsx', index=False)
 
 if __name__ == '__main__':
     # Create a car manager instance.
